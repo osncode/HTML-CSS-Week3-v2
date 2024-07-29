@@ -8,7 +8,7 @@
 
 
 
-*- RWD 網站 (-v1)* `舊版`  
+*- RWD 網站 (-v1)*
 
 
 repo : https://github.com/osncode/HTML-CSS-Week3-v1/tree/main  
